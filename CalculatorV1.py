@@ -98,8 +98,6 @@ while True:
         print("You can't divide by zero!")
         continue
 
-    result=0
-
     if(operator=="+"):
         result=num1+num2
         print(eq+"="+str(result))
